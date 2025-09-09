@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LINQ.Curso
 {
-    public class _01Linq
+    public class _04Linq
     {
         public void Incio()
         {

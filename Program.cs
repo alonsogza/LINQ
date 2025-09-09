@@ -3,9 +3,12 @@
 // See https://aka.ms/new-console-template for more information
 
 
-// LINQ.Curso._01Linq tutorial = new LINQ.Curso._01Linq();
-LINQ.Curso._02EjecucionDiferida tutorial = new LINQ.Curso._02EjecucionDiferida();
-
+// LINQ.Curso._04Linq tutorial = new LINQ.Curso._04Linq();
+// LINQ.Curso._05EjecucionDiferida tutorial = new LINQ.Curso._05EjecucionDiferida();
+// LINQ.Curso._06Where tutorial = new LINQ.Curso._06Where();
+// LINQ.Curso._07WhereConObjetos tutorial = new _07WhereConObjetos(); 
+// LINQ.Curso._08First_FirstOrDefault tutorial = new _08First_FirstOrDefault();
+LINQ.Curso._09Last_LastOrDefault tutorial = new _09Last_LastOrDefault();
 
 
 tutorial.Inicio();
