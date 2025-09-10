@@ -8,7 +8,8 @@
 // LINQ.Curso._06Where tutorial = new LINQ.Curso._06Where();
 // LINQ.Curso._07WhereConObjetos tutorial = new _07WhereConObjetos(); 
 // LINQ.Curso._08First_FirstOrDefault tutorial = new _08First_FirstOrDefault();
-LINQ.Curso._09Last_LastOrDefault tutorial = new _09Last_LastOrDefault();
+// LINQ.Curso._09Last_LastOrDefault tutorial = new _09Last_LastOrDefault();
+LINQ.Curso._10ElementAt_ElementAtOrDefault tutorial = new _10ElementAt_ElementAtOrDefault();
 
 
 tutorial.Inicio();
