@@ -12,7 +12,8 @@
 // LINQ.Curso._10ElementAt_ElementAtOrDefault tutorial = new _10ElementAt_ElementAtOrDefault();
 // LINQ.Curso._11Single_SingleOrDefault tutorial = new _11Single_SingleOrDefault();
 // LINQ.Curso._12FiltrandoPorTipo_OfType tutorial = new _12FiltrandoPorTipo_OfType();
-LINQ.Curso._13OrderBy_OrderByDescending tutorial = new _13OrderBy_OrderByDescending();
+// LINQ.Curso._13OrderBy_OrderByDescending tutorial = new _13OrderBy_OrderByDescending();
+LINQ.Curso._14ThenBy_ThenByDescending tutorial = new _14ThenBy_ThenByDescending();
 
 
 tutorial.Inicio();
