@@ -15,7 +15,9 @@
 // LINQ.Curso._13OrderBy_OrderByDescending tutorial = new _13OrderBy_OrderByDescending();
 // LINQ.Curso._14ThenBy_ThenByDescending tutorial = new _14ThenBy_ThenByDescending();
 // LINQ.Curso._15Reverse tutorial = new _15Reverse();
-LINQ.Curso._16Select tutorial = new _16Select();
+// LINQ.Curso._16Select tutorial = new _16Select();
+// LINQ.Curso._17SelectMany tutorial = new _17SelectMany();
+LINQ.Curso._18Count_LongCount tutorial = new _18Count_LongCount();
 
 
 tutorial.Inicio();
